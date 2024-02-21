@@ -1,2 +1,3 @@
 # Unity-OpenPose
-Just some codes of unfinished Unity project for OpenPose. 
+
+Just some assets of unfinished Unity project for OpenPose. 
